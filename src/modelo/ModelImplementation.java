@@ -6,9 +6,13 @@
 package modelo;
 
 /**
- *
+ * Contains methods to implement the model.
  * @author 2dam
  */
-public class ModelImplementation {
-    
+public class ModelImplementation implements Modelo{
+
+    @Override
+    public String getModel() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
 }
