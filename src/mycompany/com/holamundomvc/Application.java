@@ -7,7 +7,7 @@ package mycompany.com.holamundomvc;
  */
 
 /**
- *
+ * This is the main class for the mVC project.
  * @author 2dam
  */
 public class Application {
